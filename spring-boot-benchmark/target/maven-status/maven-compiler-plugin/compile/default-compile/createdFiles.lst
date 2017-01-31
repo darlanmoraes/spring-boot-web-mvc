@@ -1,0 +1,4 @@
+com/zenvia/Person.class
+com/zenvia/PersonController.class
+com/zenvia/SpringBootBenchmarkApplication.class
+com/zenvia/dao/PersonRepository.class
